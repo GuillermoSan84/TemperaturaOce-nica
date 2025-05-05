@@ -12,7 +12,7 @@ Procesamiento de Temperatura Oceánica (Copernicus GLOBAL_MULTIYEAR_PHY_001_030)
    - Cálculo del **promedio mensual** usando el paquete `terra`.  
    - Exportación a GeoTIFF (`temperatura.tif`).  
 
-Resultados: 
+Resultados: https://github.com/GuillermoSan84/TemperaturaOce-nica/blob/main/temperatura.JPG?raw=true
 
 ## 🛠️ Código
 ```r
