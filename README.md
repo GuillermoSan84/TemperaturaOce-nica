@@ -13,6 +13,7 @@ Procesamiento de Temperatura Oceánica (Copernicus GLOBAL_MULTIYEAR_PHY_001_030)
    - Exportación a GeoTIFF (`temperatura.tif`).  
 
 Resultados: https://github.com/GuillermoSan84/TemperaturaOce-nica/blob/main/temperatura.JPG?raw=true
+Disponibilidad de capas en: http://uninmar.icmyl.unam.mx/geoportal#zoom=5&lat=-11320833.54&lon=2475744.62&layers=BOOT
 
 ## 🛠️ Código
 ```r
